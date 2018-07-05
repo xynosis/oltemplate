@@ -6,7 +6,7 @@ For use in all your Open Lab projects - simple to set up and serve. Just fill in
 
 ``` bash
 # clone the repo
-git clone https://github.com/xynosis/oltemplate
+git clone https://github.com/xynosis/oltemplate.git
 
 # install pug and sass
 npm install -D sass-loader node-sass pug
